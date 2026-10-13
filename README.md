@@ -1,4 +1,4 @@
-# 🚀 Lunar Escape AI – Deep Q-Learning on LunarLander
+# 🚀 Lunar Landing AI – Deep Q-Learning on LunarLander
 
 A deep reinforcement learning project where an agent learns to land a spacecraft using **DQN** and **Double DQN** (PyTorch + Gymnasium), with a Streamlit app to train, watch and compare agents.
 
